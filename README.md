@@ -1,3 +1,3 @@
 # text_analytics_python
 
-Pythonではじめるテキストアナリティクス入門 
+講談社サイエンティフィク 実践DataScienceシリーズ[Pythonではじめるテキストアナリティクス入門]
